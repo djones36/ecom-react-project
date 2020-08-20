@@ -6,6 +6,7 @@ const About = () => (
     <Grid.Row>
       <Grid.Column>
         <Image src="/images/wireframe/media-paragraph.png" />
+        <p>test</p>
       </Grid.Column>
       <Grid.Column>
         <Image src="/images/wireframe/media-paragraph.png" />
