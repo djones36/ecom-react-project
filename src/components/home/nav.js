@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Menu } from "semantic-ui-react";
-
+//rebuild as a functional component with hooks
 export default class Nav extends Component {
   state = {};
 
